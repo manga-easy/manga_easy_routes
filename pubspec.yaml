@@ -14,7 +14,7 @@ dependencies:
   manga_easy_sdk:
     git: 
       url: https://github.com/lucascardo12/manga_easy_sdk.git
-      ref: 1.1.5
+      ref: v.0.11.x
 
 dev_dependencies:
   flutter_test:
