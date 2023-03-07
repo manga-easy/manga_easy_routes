@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   manga_easy_sdk:
     git: 
-      url: https://github.com/lucascardo12/manga_easy_sdk.git
+      url: https://github.com/manga-easy/manga_easy_sdk.git
       ref: v.0.11.x
 
 dev_dependencies:
