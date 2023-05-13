@@ -14,7 +14,7 @@ class EasyNavigator {
 
   Future<T?> pushNamed<T>({
     required EasyRoutes route,
-    required Map<String, dynamic> arguments,
+    Map<String, dynamic> arguments = const {},
   }) async {
     if (route.arguments != null) {
       for (ArgumentType element in route.arguments!) {
