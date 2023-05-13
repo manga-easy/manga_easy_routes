@@ -13,7 +13,7 @@ class EasyNavigatorPage extends StatelessWidget {
         route: EasyRoutes.introduce,
         arguments: {},
       ),
-      child: Text('test'),
+      child: const Text('test'),
     );
   }
 }

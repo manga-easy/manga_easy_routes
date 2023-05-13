@@ -31,7 +31,7 @@ void main() {
           route: route, arguments: arguments,
           //arguments: {'idEmblema': 'isudfghiuhiauhiahsdf'},
         ),
-        child: Text('test'),
+        child: const Text('test'),
       ),
     );
   }
