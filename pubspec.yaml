@@ -1,6 +1,6 @@
 name: manga_easy_routes
 description: Package responsavel pelas rotas e suas dependencias.
-version: 0.0.1
+version: 1.0.0
 publish_to: none
 homepage:
 
@@ -14,7 +14,7 @@ dependencies:
   manga_easy_sdk:
     git: 
       url: https://github.com/manga-easy/manga_easy_sdk.git
-      ref: v1.2.1
+      ref: v1.3.0
 
 dev_dependencies:
   flutter_test:
