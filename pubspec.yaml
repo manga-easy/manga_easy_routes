@@ -1,8 +1,7 @@
 name: manga_easy_routes
 description: Package responsavel pelas rotas e suas dependencias.
-version: 1.0.0
+version: 1.1.0
 publish_to: none
-homepage:
 
 environment:
   sdk: '>=2.19.0 <3.0.0'

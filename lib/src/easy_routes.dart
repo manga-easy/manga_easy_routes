@@ -13,6 +13,10 @@ enum EasyRoutes {
   test('/test', [
     ArgumentType(key: 'idEmblema', type: String),
     ArgumentType(key: 'test', type: double, isRequired: false)
+  ]),
+
+  manga('/manga', [
+    ArgumentType(key: 'uniqueid', type: String),
   ]);
 
   final String nameRoute;
